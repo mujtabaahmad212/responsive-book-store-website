@@ -31,9 +31,9 @@ figure {
     background-color: rgb(226, 242, 0);
     font-size: large;
     text-align: center;
-    position: sticky;
-    top: 0;
-    margin: 0;
+    position: sticky ;
+    top: 0px;
+   
     z-index: 100;
     width: 100%;
 }
